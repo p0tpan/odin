@@ -1,8 +1,7 @@
-body{
-    margin-left: auto;
-    margin-right: auto;
-    width: 8em
+#buttons{
+    display: inline-block;
+    position: relative;
 }
-#buttons div{
-    display: inline;
+body{
+    text-align: center;
 }
